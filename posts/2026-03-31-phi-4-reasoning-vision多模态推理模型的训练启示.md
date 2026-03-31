@@ -1,4 +1,10 @@
 ---
+date: '2026-03-31T16:42:13.680524'
+draft: false
+tags: []
+title: Phi-4-reasoning-vision：多模态推理模型的训练启示
+---
+---
 date: '2026-03-31T16:41:39.443373'
 draft: false
 tags: []
