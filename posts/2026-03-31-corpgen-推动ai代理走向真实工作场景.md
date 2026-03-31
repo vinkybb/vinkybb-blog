@@ -1,8 +1,15 @@
 ---
+date: '2026-03-31T16:35:52.570517'
+draft: false
+tags: []
+title: CORPGEN 推动AI代理走向真实工作场景
+---
+---
 date: '2026-03-31T16:25:26.337952'
 draft: false
 tags: []
 title: CORPGEN 推动AI代理走向真实工作场景
+status: published
 ---
 ---
 date: '2026-03-31T16:18:56.085906'
