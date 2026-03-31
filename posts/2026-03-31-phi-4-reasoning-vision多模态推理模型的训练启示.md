@@ -1,17 +1,10 @@
 ---
-date: '2026-03-31T16:40:07.338083'
+date: '2026-03-31T16:41:39.443373'
 draft: false
 tags: []
 title: Phi-4-reasoning-vision：多模态推理模型的训练启示
 ---
----
-date: '2026-03-31 15:40:26'
-draft: false
-source: https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/
-tags: []
-title: Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
-status: published
----
+
 
 我需要先获取原文完整内容，才能准确扩写。让我获取这篇文章。
 
