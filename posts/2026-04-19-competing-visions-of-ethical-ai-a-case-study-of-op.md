@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:26:19.769579'
+date: '2026-04-19T14:26:40.611586'
 draft: false
 tags: []
 title: 'Competing Visions of Ethical AI: A Case Study of OpenAI'
 ---
 ---
-status: published
+date: '2026-03-31T20:07:47.066306'
+draft: false
+tags: []
+title: 'Competing Visions of Ethical AI: A Case Study of OpenAI'
 ---
 # Competing Visions of Ethical AI: A Case Study of OpenAI
 
