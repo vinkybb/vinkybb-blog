@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:34:36.821865'
+date: '2026-04-19T14:34:52.569897'
 draft: false
 tags: []
 title: 'Compliance Generation for Privacy Documents under GDPR: A Roadmap for Implementing
   Automation and Machine Learning'
 ---
 ---
-status: published
+date: '2026-03-31T19:36:59.417716'
+draft: false
+tags: []
+title: 'Compliance Generation for Privacy Documents under GDPR: A Roadmap for Implementing
+  Automation and Machine Learning'
 ---
 # Compliance Generation for Privacy Documents under GDPR: A Roadmap for Implementing Automation and Machine Learning
 
