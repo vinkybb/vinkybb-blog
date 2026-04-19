@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:01:40.476535'
+date: '2026-04-19T15:01:57.925517'
 draft: false
 tags: []
 title: Expert Personas Improve LLM Alignment but Damage Accuracy
 ---
 ---
-status: published
+date: '2026-03-31T17:57:24.645086'
+draft: false
+tags: []
+title: Expert Personas Improve LLM Alignment but Damage Accuracy
 ---
 # Expert Personas Improve LLM Alignment but Damage Accuracy
 
