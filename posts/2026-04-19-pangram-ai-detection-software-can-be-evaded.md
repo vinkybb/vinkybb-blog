@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:10:52.484812'
+date: '2026-04-19T15:11:03.441348'
 draft: false
 tags: []
 title: Pangram (AI detection software) can be evaded
 ---
 ---
-status: published
+date: '2026-03-31T17:13:56.028571'
+draft: false
+tags: []
+title: Pangram (AI detection software) can be evaded
 ---
 # Pangram (AI detection software) can be evaded
 
