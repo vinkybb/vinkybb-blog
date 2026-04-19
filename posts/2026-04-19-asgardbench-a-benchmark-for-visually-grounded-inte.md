@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:46:14.795816'
+date: '2026-04-19T14:46:32.815985'
 draft: false
 tags: []
 title: 'AsgardBench: A benchmark for visually grounded interactive planning'
 ---
 ---
-status: published
+date: '2026-03-31T18:52:29.958067'
+draft: false
+tags: []
+title: 'AsgardBench: A benchmark for visually grounded interactive planning'
 ---
 # AsgardBench: A benchmark for visually grounded interactive planning
 
