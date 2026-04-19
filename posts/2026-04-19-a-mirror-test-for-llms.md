@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:10:29.124483'
+date: '2026-04-19T15:10:38.748487'
 draft: false
 tags: []
 title: A Mirror Test For LLMs
 ---
 ---
-status: published
+date: '2026-03-31T17:16:11.572205'
+draft: false
+tags: []
+title: A Mirror Test For LLMs
 ---
 # A Mirror Test For LLMs
 
