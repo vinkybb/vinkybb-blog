@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:56:14.156174'
+date: '2026-04-19T14:56:35.954412'
 draft: false
 tags: []
 title: Introducing the OpenAI Safety Bug Bounty program
 ---
 ---
-status: published
+date: '2026-03-31T18:17:18.675501'
+draft: false
+tags: []
+title: Introducing the OpenAI Safety Bug Bounty program
 ---
 # Introducing the OpenAI Safety Bug Bounty program
 
