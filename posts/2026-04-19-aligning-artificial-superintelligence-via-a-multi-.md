@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:20:42.521250'
+date: '2026-04-19T14:20:56.642415'
 draft: false
 tags: []
 title: Aligning Artificial Superintelligence via a Multi-Box Protocol
 ---
 ---
-status: published
+date: '2026-03-31T20:28:18.597564'
+draft: false
+tags: []
+title: Aligning Artificial Superintelligence via a Multi-Box Protocol
 ---
 # Aligning Artificial Superintelligence via a Multi-Box Protocol
 
