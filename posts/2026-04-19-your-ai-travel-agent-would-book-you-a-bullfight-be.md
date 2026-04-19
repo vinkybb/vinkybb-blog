@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T15:14:20.229546'
+date: '2026-04-19T15:14:40.447153'
 draft: false
 tags: []
 title: 'Your AI Travel agent would book you a bullfight: benchmarking implicit animal
   compassion in Agentic AI'
 ---
 ---
-status: published
+date: '2026-03-31T17:04:17.731283'
+draft: false
+tags: []
+title: 'Your AI Travel agent would book you a bullfight: benchmarking implicit animal
+  compassion in Agentic AI'
 ---
 # Your AI Travel agent would book you a bullfight: benchmarking implicit animal compassion in Agentic AI
 
