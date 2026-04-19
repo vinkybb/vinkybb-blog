@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:12:07.822636'
+date: '2026-04-19T15:12:31.435796'
 draft: false
 tags: []
 title: Take note of how brightness makes you feel
 ---
 ---
-status: published
+date: '2026-03-31T17:10:40.552745'
+draft: false
+tags: []
+title: Take note of how brightness makes you feel
 ---
 # Take note of how brightness makes you feel
 
