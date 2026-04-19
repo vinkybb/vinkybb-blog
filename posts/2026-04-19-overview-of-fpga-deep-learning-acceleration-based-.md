@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:36:16.756496'
+date: '2026-04-19T14:36:30.416058'
 draft: false
 tags: []
 title: Overview of FPGA deep learning acceleration based on convolutional neural network
 ---
 ---
-status: published
+date: '2026-03-31T19:30:51.187505'
+draft: false
+tags: []
+title: Overview of FPGA deep learning acceleration based on convolutional neural network
 ---
 # Overview of FPGA deep learning acceleration based on convolutional neural network
 
