@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:41:08.706648'
+date: '2026-04-19T14:41:29.931074'
 draft: false
 tags: []
 title: Rethinking imitation learning with Predictive Inverse Dynamics Models
 ---
 ---
-status: published
+date: '2026-03-31T19:12:31.508794'
+draft: false
+tags: []
+title: Rethinking imitation learning with Predictive Inverse Dynamics Models
 ---
 # Rethinking imitation learning with Predictive Inverse Dynamics Models
 
