@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:27:11.849182'
+date: '2026-04-19T14:27:29.458108'
 draft: false
 tags: []
 title: 'A Different Approach to AI Safety: Proceedings from the Columbia Convening
   on Openness in Artificial Intelligence and AI Safety'
 ---
 ---
-status: published
+date: '2026-03-31T20:05:48.705434'
+draft: false
+tags: []
+title: 'A Different Approach to AI Safety: Proceedings from the Columbia Convening
+  on Openness in Artificial Intelligence and AI Safety'
 ---
 # A Different Approach to AI Safety: Proceedings from the Columbia Convening on Openness in Artificial Intelligence and AI Safety
 
