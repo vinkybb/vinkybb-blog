@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:47:58.209024'
+date: '2026-04-19T14:48:17.717445'
 draft: false
 tags: []
 title: 'Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis
   for conversational AI'
 ---
 ---
-status: published
+date: '2026-03-31T18:46:38.875754'
+draft: false
+tags: []
+title: 'Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis
+  for conversational AI'
 ---
 # Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI
 
