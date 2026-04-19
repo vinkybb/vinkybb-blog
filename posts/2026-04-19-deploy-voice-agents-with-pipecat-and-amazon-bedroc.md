@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:46:41.446581'
+date: '2026-04-19T14:47:06.127927'
 draft: false
 tags: []
 title: Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part
   1
 ---
 ---
-status: published
+date: '2026-03-31T18:50:31.398210'
+draft: false
+tags: []
+title: Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part
+  1
 ---
 # Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1
 
