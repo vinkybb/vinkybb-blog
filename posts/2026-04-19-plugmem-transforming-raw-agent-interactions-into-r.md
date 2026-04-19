@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:44:26.135190'
+date: '2026-04-19T14:44:43.767592'
 draft: false
 tags: []
 title: 'PlugMem: Transforming raw agent interactions into reusable knowledge'
 ---
 ---
-status: published
+date: '2026-03-31T18:59:49.843399'
+draft: false
+tags: []
+title: 'PlugMem: Transforming raw agent interactions into reusable knowledge'
 ---
 # PlugMem: Transforming raw agent interactions into reusable knowledge
 
