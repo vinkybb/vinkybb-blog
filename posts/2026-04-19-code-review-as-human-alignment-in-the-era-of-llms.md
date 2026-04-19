@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:59:12.614288'
+date: '2026-04-19T14:59:30.112410'
 draft: false
 tags: []
 title: Code review as human alignment, in the era of LLMs
 ---
 ---
-status: published
+date: '2026-03-31T18:07:18.640325'
+draft: false
+tags: []
+title: Code review as human alignment, in the era of LLMs
 ---
 # Code review as human alignment, in the era of LLMs
 
