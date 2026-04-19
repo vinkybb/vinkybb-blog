@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:08:42.574910'
+date: '2026-04-19T14:09:03.722619'
 draft: false
 tags: []
 title: A from-scratch tour of Bitcoin in Python
 ---
 ---
-status: published
+date: '2026-03-31T21:23:23.827595'
+draft: false
+tags: []
+title: A from-scratch tour of Bitcoin in Python
 ---
 # A from-scratch tour of Bitcoin in Python
 
