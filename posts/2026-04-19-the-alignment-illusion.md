@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:02:38.146618'
+date: '2026-04-19T15:02:50.791952'
 draft: false
 tags: []
 title: The Alignment Illusion
 ---
 ---
-status: published
+date: '2026-03-31T17:53:26.581103'
+draft: false
+tags: []
+title: The Alignment Illusion
 ---
 # The Alignment Illusion
 
