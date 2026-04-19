@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:41:48.941881'
+date: '2026-04-19T14:42:05.878623'
 draft: false
 tags: []
 title: Project Silica’s advances in glass storage technology
 ---
 ---
-status: published
+date: '2026-03-31T19:10:28.821650'
+draft: false
+tags: []
+title: Project Silica’s advances in glass storage technology
 ---
 # Project Silica’s advances in glass storage technology
 
