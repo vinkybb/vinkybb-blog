@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:24:38.769747'
+date: '2026-04-19T14:24:58.426964'
 draft: false
 tags: []
 title: International Scientific Report on the Safety of Advanced AI (Interim Report)
 ---
 ---
-status: published
+date: '2026-03-31T20:13:46.831978'
+draft: false
+tags: []
+title: International Scientific Report on the Safety of Advanced AI (Interim Report)
 ---
 # International Scientific Report on the Safety of Advanced AI (Interim Report)
 
