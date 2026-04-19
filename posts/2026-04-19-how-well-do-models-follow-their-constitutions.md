@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:04:53.132143'
+date: '2026-04-19T15:05:14.025303'
 draft: false
 tags: []
 title: How well do models follow their constitutions?
 ---
 ---
-status: published
+date: '2026-03-31T17:45:14.204039'
+draft: false
+tags: []
+title: How well do models follow their constitutions?
 ---
 # How well do models follow their constitutions?
 
