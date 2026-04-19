@@ -1,11 +1,5 @@
 ---
-date: '2026-04-19T14:16:10.547241'
-draft: false
-tags: []
-title: 'Towards Scalable Automated Alignment of LLMs: A Survey'
----
----
-date: '2026-03-31T20:46:39.449649'
+date: '2026-04-19T14:16:34.178256'
 draft: false
 tags: []
 title: 'Towards Scalable Automated Alignment of LLMs: A Survey'
