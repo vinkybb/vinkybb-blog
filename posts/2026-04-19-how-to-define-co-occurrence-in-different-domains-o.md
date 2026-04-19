@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:31:13.486810'
+date: '2026-04-19T14:31:34.767271'
 draft: false
 tags: []
 title: How to define co-occurrence in different domains of study?
 ---
 ---
-status: published
+date: '2026-03-31T19:48:39.144430'
+draft: false
+tags: []
+title: How to define co-occurrence in different domains of study?
 ---
 # How to define co-occurrence in different domains of study?
 
