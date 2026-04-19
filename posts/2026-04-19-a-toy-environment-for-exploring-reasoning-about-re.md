@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:08:19.896104'
+date: '2026-04-19T15:08:32.362700'
 draft: false
 tags: []
 title: A Toy Environment For Exploring Reasoning About Reward
 ---
 ---
-status: published
+date: '2026-03-31T17:31:01.754427'
+draft: false
+tags: []
+title: A Toy Environment For Exploring Reasoning About Reward
 ---
 # A Toy Environment For Exploring Reasoning About Reward
 
