@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:45:44.717364'
+date: '2026-04-19T14:45:57.180433'
 draft: false
 tags: []
 title: 'GroundedPlanBench: Spatially grounded long-horizon task planning for robot
   manipulation'
 ---
 ---
-status: published
+date: '2026-03-31T18:54:25.643987'
+draft: false
+tags: []
+title: 'GroundedPlanBench: Spatially grounded long-horizon task planning for robot
+  manipulation'
 ---
 # GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation
 
