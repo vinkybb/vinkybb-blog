@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:51:51.058216'
+date: '2026-04-19T14:52:09.417567'
 draft: false
 tags: []
 title: How Ring scales global customer support with Amazon Bedrock Knowledge Bases
 ---
 ---
-status: published
+date: '2026-03-31T18:33:51.259536'
+draft: false
+tags: []
+title: How Ring scales global customer support with Amazon Bedrock Knowledge Bases
 ---
 # How Ring scales global customer support with Amazon Bedrock Knowledge Bases
 
