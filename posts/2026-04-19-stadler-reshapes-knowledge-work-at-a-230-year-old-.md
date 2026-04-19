@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:57:42.608331'
+date: '2026-04-19T14:58:03.838933'
 draft: false
 tags: []
 title: STADLER reshapes knowledge work at a 230-year-old company
 ---
 ---
-status: published
+date: '2026-03-31T18:13:45.345528'
+draft: false
+tags: []
+title: STADLER reshapes knowledge work at a 230-year-old company
 ---
 # STADLER reshapes knowledge work at a 230-year-old company
 
