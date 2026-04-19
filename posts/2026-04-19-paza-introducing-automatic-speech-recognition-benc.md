@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:40:38.493277'
+date: '2026-04-19T14:40:58.520994'
 draft: false
 tags: []
 title: 'Paza: Introducing automatic speech recognition benchmarks and models for low
   resource languages'
 ---
 ---
-status: published
+date: '2026-03-31T19:14:36.692971'
+draft: false
+tags: []
+title: 'Paza: Introducing automatic speech recognition benchmarks and models for low
+  resource languages'
 ---
 # Paza: Introducing automatic speech recognition benchmarks and models for low resource languages
 
