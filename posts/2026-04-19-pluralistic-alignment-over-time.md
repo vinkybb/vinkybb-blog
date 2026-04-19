@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:16:44.450630'
+date: '2026-04-19T14:17:00.273943'
 draft: false
 tags: []
 title: Pluralistic Alignment Over Time
 ---
 ---
-status: published
+date: '2026-03-31T20:44:20.299582'
+draft: false
+tags: []
+title: Pluralistic Alignment Over Time
 ---
 # Pluralistic Alignment Over Time
 
