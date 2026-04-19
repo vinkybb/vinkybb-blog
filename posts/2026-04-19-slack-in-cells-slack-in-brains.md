@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:13:42.509721'
+date: '2026-04-19T15:14:00.474582'
 draft: false
 tags: []
 title: Slack in Cells, Slack in Brains
 ---
 ---
-status: published
+date: '2026-03-31T17:06:04.014491'
+draft: false
+tags: []
+title: Slack in Cells, Slack in Brains
 ---
 # Slack in Cells, Slack in Brains
 
