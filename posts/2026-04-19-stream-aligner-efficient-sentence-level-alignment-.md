@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:18:52.473710'
+date: '2026-04-19T14:19:10.549437'
 draft: false
 tags: []
 title: 'Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction'
 ---
 ---
-status: published
+date: '2026-03-31T20:34:53.095870'
+draft: false
+tags: []
+title: 'Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction'
 ---
 # Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction
 
