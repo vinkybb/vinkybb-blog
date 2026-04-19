@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:12:58.942696'
+date: '2026-04-19T15:13:20.424311'
 draft: false
 tags: []
 title: 'D&D.Sci Release Day: Topple the Tower Analysis & Ruleset'
 ---
 ---
-status: published
+date: '2026-03-31T17:08:34.499662'
+draft: false
+tags: []
+title: 'D&D.Sci Release Day: Topple the Tower Analysis & Ruleset'
 ---
 # D&D.Sci Release Day: Topple the Tower Analysis & Ruleset
 
