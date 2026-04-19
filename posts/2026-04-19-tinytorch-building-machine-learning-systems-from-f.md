@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:13:10.071750'
+date: '2026-04-19T14:13:30.349868'
 draft: false
 tags: []
 title: 'TinyTorch: Building Machine Learning Systems from First Principles'
 ---
 ---
-status: published
+date: '2026-03-31T21:01:10.753218'
+draft: false
+tags: []
+title: 'TinyTorch: Building Machine Learning Systems from First Principles'
 ---
 # TinyTorch: Building Machine Learning Systems from First Principles
 
