@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:19:30.340664'
+date: '2026-04-19T14:19:51.297414'
 draft: false
 tags: []
 title: How Aligned are Different Alignment Metrics?
 ---
 ---
-status: published
+date: '2026-03-31T20:32:05.084580'
+draft: false
+tags: []
+title: How Aligned are Different Alignment Metrics?
 ---
 # How Aligned are Different Alignment Metrics?
 
