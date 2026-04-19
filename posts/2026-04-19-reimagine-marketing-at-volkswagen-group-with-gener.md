@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:51:17.830458'
+date: '2026-04-19T14:51:32.700152'
 draft: false
 tags: []
 title: Reimagine marketing at Volkswagen Group with generative AI
 ---
 ---
-status: published
+date: '2026-03-31T18:35:39.524150'
+draft: false
+tags: []
+title: Reimagine marketing at Volkswagen Group with generative AI
 ---
 # Reimagine marketing at Volkswagen Group with generative AI
 
