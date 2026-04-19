@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:15:57.022735'
+date: '2026-04-19T15:16:17.935294'
 draft: false
 tags: []
 title: Forecasting Dojo Meetup - postmortem discussion.
 ---
 ---
-status: published
+date: '2026-03-31T16:59:54.959781'
+draft: false
+tags: []
+title: Forecasting Dojo Meetup - postmortem discussion.
 ---
 # Forecasting Dojo Meetup - postmortem discussion.
 
