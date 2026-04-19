@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:49:39.724321'
+date: '2026-04-19T14:49:48.362266'
 draft: false
 tags: []
 title: Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 ---
 ---
-status: published
+date: '2026-03-31T18:41:26.023377'
+draft: false
+tags: []
+title: Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 ---
 # Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)
 
