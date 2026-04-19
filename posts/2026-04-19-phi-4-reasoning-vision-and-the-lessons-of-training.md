@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:43:46.976921'
+date: '2026-04-19T14:44:11.779560'
 draft: false
 tags: []
 title: Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
 ---
 ---
-status: published
+date: '2026-03-31T19:03:33.971030'
+draft: false
+tags: []
+title: Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
 ---
 # Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model
 
