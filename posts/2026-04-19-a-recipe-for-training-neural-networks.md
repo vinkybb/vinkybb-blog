@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:07:15.431720'
+date: '2026-04-19T14:07:29.938653'
 draft: false
 tags: []
 title: A Recipe for Training Neural Networks
 ---
 ---
-status: published
+date: '2026-03-31T21:31:00.967160'
+draft: false
+tags: []
+title: A Recipe for Training Neural Networks
 ---
 # A Recipe for Training Neural Networks
 
