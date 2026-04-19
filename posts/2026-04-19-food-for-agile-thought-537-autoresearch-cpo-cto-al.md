@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:02:59.884247'
+date: '2026-04-19T15:03:20.023929'
 draft: false
 tags: []
 title: 'Food for Agile Thought 537: AutoResearch, CPO-CTO Alignment, Overrated Autonomy'
 ---
 ---
-status: published
+date: '2026-03-31T17:51:21.193426'
+draft: false
+tags: []
+title: 'Food for Agile Thought #537: AutoResearch, CPO-CTO Alignment, Overrated Autonomy'
 ---
 # Food for Agile Thought #537: AutoResearch, CPO-CTO Alignment, Overrated Autonomy
 
