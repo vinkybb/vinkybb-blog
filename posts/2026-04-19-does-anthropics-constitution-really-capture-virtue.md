@@ -1,11 +1,18 @@
 ---
-date: '2026-04-19T15:14:54.136892'
+date: '2026-04-19T15:15:33.634205'
 draft: false
 tags: []
 title: Does Anthropic’s Constitution Really Capture Virtue Ethics?
 ---
 ---
-status: published
+date: '2026-03-31T17:01:22.041954'
+draft: false
+tags: []
+title: 'Does Anthropic’s Constitution Really Capture Virtue Ethics?
+
+  Toward a virtue ethical alternative to Constitutional AI
+
+  (with comments by Claude)'
 ---
 # Does Anthropic’s Constitution Really Capture Virtue Ethics?
 Toward a virtue ethical alternative to Constitutional AI
