@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:40:05.836539'
+date: '2026-04-19T14:40:23.686796'
 draft: false
 tags: []
 title: A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video
   Data
 ---
 ---
-status: published
+date: '2026-03-31T19:18:28.524139'
+draft: false
+tags: []
+title: A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video
+  Data
 ---
 # A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data
 
