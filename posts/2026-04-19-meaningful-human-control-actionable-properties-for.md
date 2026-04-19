@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:21:57.597934'
+date: '2026-04-19T14:22:17.448237'
 draft: false
 tags: []
 title: 'Meaningful human control: actionable properties for AI system development'
 ---
 ---
-status: published
+date: '2026-03-31T20:23:11.704390'
+draft: false
+tags: []
+title: 'Meaningful human control: actionable properties for AI system development'
 ---
 # Meaningful human control: actionable properties for AI system development
 
