@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T15:09:54.140370'
+date: '2026-04-19T15:10:11.447285'
 draft: false
 tags: []
 title: (Some) Natural Emergent Misalignment from Reward Hacking in Non-Production
   RL
 ---
 ---
-status: published
+date: '2026-03-31T17:20:15.299003'
+draft: false
+tags: []
+title: (Some) Natural Emergent Misalignment from Reward Hacking in Non-Production
+  RL
 ---
 # (Some) Natural Emergent Misalignment from Reward Hacking in Non-Production RL
 
