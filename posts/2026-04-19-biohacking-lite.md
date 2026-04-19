@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:07:46.885786'
+date: '2026-04-19T14:08:05.002139'
 draft: false
 tags: []
 title: Biohacking Lite
 ---
 ---
-status: published
+date: '2026-03-31T21:28:11.999979'
+draft: false
+tags: []
+title: Biohacking Lite
 ---
 # Biohacking Lite
 
