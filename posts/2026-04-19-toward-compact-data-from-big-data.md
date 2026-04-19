@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:33:38.806756'
+date: '2026-04-19T14:33:59.880986'
 draft: false
 tags: []
 title: Toward Compact Data from Big Data
 ---
 ---
-status: published
+date: '2026-03-31T19:40:43.205438'
+draft: false
+tags: []
+title: Toward Compact Data from Big Data
 ---
 # Toward Compact Data from Big Data
 
