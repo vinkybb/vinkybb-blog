@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:09:16.988088'
+date: '2026-04-19T15:09:30.881949'
 draft: false
 tags: []
 title: ControlAI 2025 Impact Report
 ---
 ---
-status: published
+date: '2026-03-31T17:24:29.009974'
+draft: false
+tags: []
+title: ControlAI 2025 Impact Report
 ---
 # ControlAI 2025 Impact Report
 
