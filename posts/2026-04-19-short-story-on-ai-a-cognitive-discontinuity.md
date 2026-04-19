@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:05:24.183043'
+date: '2026-04-19T14:05:33.637338'
 draft: false
 tags: []
 title: 'Short Story on AI: A Cognitive Discontinuity.'
 ---
 ---
-status: published
+date: '2026-03-31T21:40:14.189471'
+draft: false
+tags: []
+title: 'Short Story on AI: A Cognitive Discontinuity.'
 ---
 # Short Story on AI: A Cognitive Discontinuity.
 
