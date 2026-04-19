@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:47:19.992661'
+date: '2026-04-19T14:47:38.657273'
 draft: false
 tags: []
 title: Unlocking video insights at scale with Amazon Bedrock multimodal models
 ---
 ---
-status: published
+date: '2026-03-31T18:48:22.591093'
+draft: false
+tags: []
+title: Unlocking video insights at scale with Amazon Bedrock multimodal models
 ---
 # Unlocking video insights at scale with Amazon Bedrock multimodal models
 
