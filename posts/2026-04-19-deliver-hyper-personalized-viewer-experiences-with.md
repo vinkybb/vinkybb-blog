@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:50:05.681233'
+date: '2026-04-19T14:50:28.135937'
 draft: false
 tags: []
 title: Deliver hyper-personalized viewer experiences with an agentic AI movie assistant
   using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0
 ---
 ---
-status: published
+date: '2026-03-31T18:39:37.003373'
+draft: false
+tags: []
+title: Deliver hyper-personalized viewer experiences with an agentic AI movie assistant
+  using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0
 ---
 # Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0
 
