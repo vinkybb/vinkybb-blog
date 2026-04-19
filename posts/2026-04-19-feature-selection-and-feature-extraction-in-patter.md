@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:29:56.650989'
+date: '2026-04-19T14:30:19.914655'
 draft: false
 tags: []
 title: 'Feature Selection and Feature Extraction in Pattern Analysis: A Literature
   Review'
 ---
 ---
-status: published
+date: '2026-03-31T19:52:53.949654'
+draft: false
+tags: []
+title: 'Feature Selection and Feature Extraction in Pattern Analysis: A Literature
+  Review'
 ---
 # Feature Selection and Feature Extraction in Pattern Analysis: A Literature Review
 
