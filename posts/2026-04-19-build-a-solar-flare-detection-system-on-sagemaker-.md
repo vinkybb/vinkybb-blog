@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:50:47.373842'
+date: '2026-04-19T14:51:05.865626'
 draft: false
 tags: []
 title: Build a solar flare detection system on SageMaker AI LSTM networks and ESA
   STIX data
 ---
 ---
-status: published
+date: '2026-03-31T18:37:23.874568'
+draft: false
+tags: []
+title: Build a solar flare detection system on SageMaker AI LSTM networks and ESA
+  STIX data
 ---
 # Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data
 
