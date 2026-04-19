@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:52:52.256086'
+date: '2026-04-19T14:53:11.958323'
 draft: false
 tags: []
 title: How we monitor internal coding agents for misalignment
 ---
 ---
-status: published
+date: '2026-03-31T18:30:30.926640'
+draft: false
+tags: []
+title: How we monitor internal coding agents for misalignment
 ---
 # How we monitor internal coding agents for misalignment
 
