@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:07:19.996680'
+date: '2026-04-19T15:07:35.786777'
 draft: false
 tags: []
 title: “Act-based approval-directed agents”, for IDA skeptics
 ---
 ---
-status: published
+date: '2026-03-31T17:36:00.042038'
+draft: false
+tags: []
+title: “Act-based approval-directed agents”, for IDA skeptics
 ---
 # “Act-based approval-directed agents”, for IDA skeptics
 
