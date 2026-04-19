@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:06:21.282535'
+date: '2026-04-19T14:06:32.075153'
 draft: false
 tags: []
 title: A Survival Guide to a PhD
 ---
 ---
-status: published
+date: '2026-03-31T21:35:59.047571'
+draft: false
+tags: []
+title: A Survival Guide to a PhD
 ---
 # A Survival Guide to a PhD
 
