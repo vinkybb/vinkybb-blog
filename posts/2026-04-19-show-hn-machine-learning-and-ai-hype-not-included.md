@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:12:11.109710'
+date: '2026-04-19T14:12:28.182728'
 draft: false
 tags: []
 title: 'Show HN: Machine learning and AI. Hype not included'
 ---
 ---
-status: published
+date: '2026-03-31T21:06:54.222349'
+draft: false
+tags: []
+title: 'Show HN: Machine learning and AI. Hype not included'
 ---
 # Show HN: Machine learning and AI. Hype not included
 
