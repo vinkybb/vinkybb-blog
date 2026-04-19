@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:20:03.718580'
+date: '2026-04-19T14:20:26.258441'
 draft: false
 tags: []
 title: 'Chain of Alignment: Integrating Public Will with Expert Intelligence for Language
   Model Alignment'
 ---
 ---
-status: published
+date: '2026-03-31T20:30:04.928292'
+draft: false
+tags: []
+title: 'Chain of Alignment: Integrating Public Will with Expert Intelligence for Language
+  Model Alignment'
 ---
 # Chain of Alignment: Integrating Public Will with Expert Intelligence for Language Model Alignment
 
