@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:12:47.187103'
+date: '2026-04-19T14:13:00.543949'
 draft: false
 tags: []
 title: 'Apple: Accelerate your machine learning workloads with the M5 and A19 GPUs'
 ---
 ---
-status: published
+date: '2026-03-31T21:04:29.083733'
+draft: false
+tags: []
+title: 'Apple: Accelerate your machine learning workloads with the M5 and A19 GPUs'
 ---
 # Apple: Accelerate your machine learning workloads with the M5 and A19 GPUs
 
