@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:15:27.723804'
+date: '2026-04-19T14:15:50.242133'
 draft: false
 tags: []
 title: Machine Learning for Android Engineers
 ---
 ---
-status: published
+date: '2026-03-31T20:51:07.869727'
+draft: false
+tags: []
+title: Machine Learning for Android Engineers
 ---
 # Machine Learning for Android Engineers
 
