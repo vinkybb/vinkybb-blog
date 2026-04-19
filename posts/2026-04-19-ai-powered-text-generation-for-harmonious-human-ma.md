@@ -1,12 +1,5 @@
 ---
-date: '2026-04-19T14:29:24.914230'
-draft: false
-tags: []
-title: 'AI-Powered Text Generation for Harmonious Human-Machine Interaction: Current
-  State and Future Directions'
----
----
-date: '2026-03-31T19:54:57.892887'
+date: '2026-04-19T14:29:47.475638'
 draft: false
 tags: []
 title: 'AI-Powered Text Generation for Harmonious Human-Machine Interaction: Current
