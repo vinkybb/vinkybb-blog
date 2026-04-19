@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:14:39.036381'
+date: '2026-04-19T14:14:54.864790'
 draft: false
 tags: []
 title: Machine Learning for Humans and Now for LLMs
 ---
 ---
-status: published
+date: '2026-03-31T20:55:42.672117'
+draft: false
+tags: []
+title: Machine Learning for Humans and Now for LLMs
 ---
 # Machine Learning for Humans and Now for LLMs
 
