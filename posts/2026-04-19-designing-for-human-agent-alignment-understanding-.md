@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:18:26.971161'
+date: '2026-04-19T14:18:40.670009'
 draft: false
 tags: []
 title: 'Designing for Human-Agent Alignment: Understanding what humans want from their
   agents'
 ---
 ---
-status: published
+date: '2026-03-31T20:37:40.619291'
+draft: false
+tags: []
+title: 'Designing for Human-Agent Alignment: Understanding what humans want from their
+  agents'
 ---
 # Designing for Human-Agent Alignment: Understanding what humans want from their agents
 
