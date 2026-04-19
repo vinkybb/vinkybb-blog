@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:08:48.466927'
+date: '2026-04-19T15:09:07.095734'
 draft: false
 tags: []
 title: Test your best methods on our hard CoT interp tasks
 ---
 ---
-status: published
+date: '2026-03-31T17:28:54.513190'
+draft: false
+tags: []
+title: Test your best methods on our hard CoT interp tasks
 ---
 # Test your best methods on our hard CoT interp tasks
 
