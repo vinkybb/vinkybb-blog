@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:38:04.802212'
+date: '2026-04-19T14:38:30.030775'
 draft: false
 tags: []
 title: Generalization in portfolio-based algorithm selection
 ---
 ---
-status: published
+date: '2026-03-31T19:25:38.660620'
+draft: false
+tags: []
+title: Generalization in portfolio-based algorithm selection
 ---
 # Generalization in portfolio-based algorithm selection
 
