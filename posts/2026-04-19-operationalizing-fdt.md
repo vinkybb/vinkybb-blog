@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:05:25.256629'
+date: '2026-04-19T15:05:43.408191'
 draft: false
 tags: []
 title: Operationalizing FDT
 ---
 ---
-status: published
+date: '2026-03-31T17:42:31.440148'
+draft: false
+tags: []
+title: Operationalizing FDT
 ---
 # Operationalizing FDT
 
