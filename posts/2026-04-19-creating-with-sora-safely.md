@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:53:30.499032'
+date: '2026-04-19T14:53:50.948756'
 draft: false
 tags: []
 title: Creating with Sora Safely
 ---
 ---
-status: published
+date: '2026-03-31T18:27:15.025420'
+draft: false
+tags: []
+title: Creating with Sora Safely
 ---
 # Creating with Sora Safely
 
