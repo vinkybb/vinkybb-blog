@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:59:48.144352'
+date: '2026-04-19T14:59:59.272104'
 draft: false
 tags: []
 title: 'Show HN: MAGA or Not? Political alignment scores for people and companies'
 ---
 ---
-status: published
+date: '2026-03-31T18:05:06.705349'
+draft: false
+tags: []
+title: 'Show HN: MAGA or Not? Political alignment scores for people and companies'
 ---
 # Show HN: MAGA or Not? Political alignment scores for people and companies
 
