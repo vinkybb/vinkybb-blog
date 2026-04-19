@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:06:44.335229'
+date: '2026-04-19T14:06:56.866308'
 draft: false
 tags: []
 title: (started posting on Medium instead)
 ---
 ---
-status: published
+date: '2026-03-31T21:33:08.775584'
+draft: false
+tags: []
+title: (started posting on Medium instead)
 ---
 # (started posting on Medium instead)
 
