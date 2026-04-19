@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:35:38.887264'
+date: '2026-04-19T14:35:58.231417'
 draft: false
 tags: []
 title: 'Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based
   Simulation'
 ---
 ---
-status: published
+date: '2026-03-31T19:32:33.822193'
+draft: false
+tags: []
+title: 'Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based
+  Simulation'
 ---
 # Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based Simulation
 
