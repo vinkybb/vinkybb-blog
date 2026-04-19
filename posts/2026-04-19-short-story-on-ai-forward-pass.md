@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:08:16.023758'
+date: '2026-04-19T14:08:33.327647'
 draft: false
 tags: []
 title: 'Short Story on AI: Forward Pass'
 ---
 ---
-status: published
+date: '2026-03-31T21:25:32.749498'
+draft: false
+tags: []
+title: 'Short Story on AI: Forward Pass'
 ---
 # Short Story on AI: Forward Pass
 
