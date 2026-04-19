@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:11:26.344575'
+date: '2026-04-19T15:11:41.443277'
 draft: false
 tags: []
 title: 'Cost of Cultured Meat: workshop, modeling, resources, feedback'
 ---
 ---
-status: published
+date: '2026-03-31T17:12:13.526702'
+draft: false
+tags: []
+title: 'Cost of Cultured Meat: workshop, modeling, resources, feedback'
 ---
 # Cost of Cultured Meat: workshop, modeling, resources, feedback
 
