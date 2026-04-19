@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:21:15.119324'
+date: '2026-04-19T14:21:36.253218'
 draft: false
 tags: []
 title: Deliberative Technology for Alignment
 ---
 ---
-status: published
+date: '2026-03-31T20:26:26.691609'
+draft: false
+tags: []
+title: Deliberative Technology for Alignment
 ---
 # Deliberative Technology for Alignment
 
