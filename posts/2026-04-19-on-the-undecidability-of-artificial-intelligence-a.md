@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:17:12.932027'
+date: '2026-04-19T14:17:22.953166'
 draft: false
 tags: []
 title: 'On the Undecidability of Artificial Intelligence Alignment: Machines that
   Halt'
 ---
 ---
-status: published
+date: '2026-03-31T20:41:50.925047'
+draft: false
+tags: []
+title: 'On the Undecidability of Artificial Intelligence Alignment: Machines that
+  Halt'
 ---
 # On the Undecidability of Artificial Intelligence Alignment: Machines that Halt
 
