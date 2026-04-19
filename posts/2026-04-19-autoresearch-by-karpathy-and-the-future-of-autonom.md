@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:11:02.895909'
+date: '2026-04-19T14:11:19.221275'
 draft: false
 tags: []
 title: AutoResearch by Karpathy and the Future of Autonomous Machine Learning
 ---
 ---
-status: published
+date: '2026-03-31T21:14:09.008261'
+draft: false
+tags: []
+title: AutoResearch by Karpathy and the Future of Autonomous Machine Learning
 ---
 # AutoResearch by Karpathy and the Future of Autonomous Machine Learning
 
