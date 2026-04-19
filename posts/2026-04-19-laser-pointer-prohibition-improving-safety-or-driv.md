@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:22:35.369327'
+date: '2026-04-19T14:23:00.705303'
 draft: false
 tags: []
 title: 'Laser pointer prohibition: improving safety or driving misclassification'
 ---
 ---
-status: published
+date: '2026-03-31T20:19:57.908587'
+draft: false
+tags: []
+title: 'Laser pointer prohibition: improving safety or driving misclassification'
 ---
 # Laser pointer prohibition: improving safety or driving misclassification
 
