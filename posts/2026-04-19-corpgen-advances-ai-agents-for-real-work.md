@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:43:05.650171'
+date: '2026-04-19T14:43:26.884206'
 draft: false
 tags: []
 title: CORPGEN advances AI agents for real work
 ---
 ---
-status: published
+date: '2026-03-31T19:06:38.612514'
+draft: false
+tags: []
+title: CORPGEN advances AI agents for real work
 ---
 # CORPGEN advances AI agents for real work
 
