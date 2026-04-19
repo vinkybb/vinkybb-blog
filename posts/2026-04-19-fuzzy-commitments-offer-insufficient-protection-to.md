@@ -1,12 +1,5 @@
 ---
-date: '2026-04-19T14:38:49.779997'
-draft: false
-tags: []
-title: Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced
-  by Deep Learning
----
----
-date: '2026-03-31T19:21:53.162348'
+date: '2026-04-19T14:39:14.664341'
 draft: false
 tags: []
 title: Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced
