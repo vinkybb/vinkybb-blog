@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:06:42.593824'
+date: '2026-04-19T15:07:00.894453'
 draft: false
 tags: []
 title: New RFP on Interpretability from Schmidt Sciences
 ---
 ---
-status: published
+date: '2026-03-31T17:38:41.264339'
+draft: false
+tags: []
+title: New RFP on Interpretability from Schmidt Sciences
 ---
 # New RFP on Interpretability from Schmidt Sciences
 
