@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:25:39.242117'
+date: '2026-04-19T14:26:00.283936'
 draft: false
 tags: []
 title: Foundations of GenIR
 ---
 ---
-status: published
+date: '2026-03-31T20:09:41.196200'
+draft: false
+tags: []
+title: Foundations of GenIR
 ---
 # Foundations of GenIR
 
