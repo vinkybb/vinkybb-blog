@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:42:21.053145'
+date: '2026-04-19T14:42:42.552658'
 draft: false
 tags: []
 title: 'Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions'
 ---
 ---
-status: published
+date: '2026-03-31T19:08:21.557359'
+draft: false
+tags: []
+title: 'Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions'
 ---
 # Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions
 
