@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:36:56.425360'
+date: '2026-04-19T14:37:13.925809'
 draft: false
 tags: []
 title: 'Skeleton-based Approaches based on Machine Vision: A Survey'
 ---
 ---
-status: published
+date: '2026-03-31T19:28:55.837033'
+draft: false
+tags: []
+title: 'Skeleton-based Approaches based on Machine Vision: A Survey'
 ---
 # Skeleton-based Approaches based on Machine Vision: A Survey
 
