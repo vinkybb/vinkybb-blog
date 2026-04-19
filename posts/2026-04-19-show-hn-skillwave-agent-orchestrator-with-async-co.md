@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T15:04:13.217780'
+date: '2026-04-19T15:04:33.314529'
 draft: false
 tags: []
 title: 'Show HN: Skillwave – agent orchestrator with async comms and goal-alignment
   loop'
 ---
 ---
-status: published
+date: '2026-03-31T17:46:58.719194'
+draft: false
+tags: []
+title: 'Show HN: Skillwave – agent orchestrator with async comms and goal-alignment
+  loop'
 ---
 # Show HN: Skillwave – agent orchestrator with async comms and goal-alignment loop
 
