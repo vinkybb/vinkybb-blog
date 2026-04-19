@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:00:13.193515'
+date: '2026-04-19T15:00:35.744856'
 draft: false
 tags: []
 title: Secure Linear Alignment of Large Language Models
 ---
 ---
-status: published
+date: '2026-03-31T18:03:28.845108'
+draft: false
+tags: []
+title: Secure Linear Alignment of Large Language Models
 ---
 # Secure Linear Alignment of Large Language Models
 
