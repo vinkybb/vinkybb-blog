@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:32:30.366093'
+date: '2026-04-19T14:32:50.054982'
 draft: false
 tags: []
 title: Neural document expansion for ad-hoc information retrieval
 ---
 ---
-status: published
+date: '2026-03-31T19:44:54.139651'
+draft: false
+tags: []
+title: Neural document expansion for ad-hoc information retrieval
 ---
 # Neural document expansion for ad-hoc information retrieval
 
