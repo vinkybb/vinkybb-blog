@@ -1,12 +1,16 @@
 ---
-date: '2026-04-19T14:34:11.687263'
+date: '2026-04-19T14:34:20.925739'
 draft: false
 tags: []
 title: 'PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer
   Learning and Capsule Classifier'
 ---
 ---
-status: published
+date: '2026-03-31T19:38:54.331135'
+draft: false
+tags: []
+title: 'PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer
+  Learning and Capsule Classifier'
 ---
 # PaXNet: Dental Caries Detection in Panoramic X-ray using Ensemble Transfer Learning and Capsule Classifier
 
