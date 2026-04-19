@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:16:29.100468'
+date: '2026-04-19T15:16:50.659252'
 draft: false
 tags: []
 title: Forecasting Walkthrough with Metaculus pro ExMateriae
 ---
 ---
-status: published
+date: '2026-03-31T16:57:41.940549'
+draft: false
+tags: []
+title: Forecasting Walkthrough with Metaculus pro ExMateriae
 ---
 # Forecasting Walkthrough with Metaculus pro ExMateriae
 
