@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:09:24.661019'
+date: '2026-04-19T14:09:36.478530'
 draft: false
 tags: []
 title: 'Deep Neural Nets: 33 years ago and 33 years from now'
 ---
 ---
-status: published
+date: '2026-03-31T21:21:36.523114'
+draft: false
+tags: []
+title: 'Deep Neural Nets: 33 years ago and 33 years from now'
 ---
 # Deep Neural Nets: 33 years ago and 33 years from now
 
