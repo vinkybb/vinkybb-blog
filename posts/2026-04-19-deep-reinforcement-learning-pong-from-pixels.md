@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:05:48.546340'
+date: '2026-04-19T14:06:05.046248'
 draft: false
 tags: []
 title: 'Deep Reinforcement Learning: Pong from Pixels'
 ---
 ---
-status: published
+date: '2026-03-31T21:37:57.930150'
+draft: false
+tags: []
+title: 'Deep Reinforcement Learning: Pong from Pixels'
 ---
 # Deep Reinforcement Learning: Pong from Pixels
 
