@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:56:55.392818'
+date: '2026-04-19T14:57:19.436659'
 draft: false
 tags: []
 title: Inside our approach to the Model Spec
 ---
 ---
-status: published
+date: '2026-03-31T18:15:34.392748'
+draft: false
+tags: []
+title: Inside our approach to the Model Spec
 ---
 # Inside our approach to the Model Spec
 
