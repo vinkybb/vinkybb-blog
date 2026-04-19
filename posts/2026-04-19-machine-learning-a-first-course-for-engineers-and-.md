@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:13:48.466807'
+date: '2026-04-19T14:14:07.842448'
 draft: false
 tags: []
 title: 'Machine Learning: A First Course for Engineers and Scientists'
 ---
 ---
-status: published
+date: '2026-03-31T20:57:44.087731'
+draft: false
+tags: []
+title: 'Machine Learning: A First Course for Engineers and Scientists'
 ---
 # Machine Learning: A First Course for Engineers and Scientists
 
