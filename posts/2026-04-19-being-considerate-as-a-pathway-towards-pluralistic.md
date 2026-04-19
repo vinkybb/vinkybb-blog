@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:17:42.454218'
+date: '2026-04-19T14:18:07.091734'
 draft: false
 tags: []
 title: Being Considerate as a Pathway Towards Pluralistic Alignment for Agentic AI
 ---
 ---
-status: published
+date: '2026-03-31T20:39:45.530341'
+draft: false
+tags: []
+title: Being Considerate as a Pathway Towards Pluralistic Alignment for Agentic AI
 ---
 # Being Considerate as a Pathway Towards Pluralistic Alignment for Agentic AI
 
