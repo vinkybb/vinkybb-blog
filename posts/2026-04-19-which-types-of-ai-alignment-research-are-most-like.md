@@ -1,11 +1,5 @@
 ---
-date: '2026-04-19T15:00:53.174778'
-draft: false
-tags: []
-title: Which types of AI alignment research are most likely to be good for all sentien
----
----
-date: '2026-03-31T17:59:34.349883'
+date: '2026-04-19T15:01:16.076997'
 draft: false
 tags: []
 title: Which types of AI alignment research are most likely to be good for all sentien
