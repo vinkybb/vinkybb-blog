@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T15:07:45.978944'
+date: '2026-04-19T15:07:59.140989'
 draft: false
 tags: []
 title: Metagaming matters for training, evaluation, and oversight
 ---
 ---
-status: published
+date: '2026-03-31T17:34:11.842105'
+draft: false
+tags: []
+title: Metagaming matters for training, evaluation, and oversight
 ---
 # Metagaming matters for training, evaluation, and oversight
 
