@@ -1,11 +1,14 @@
 ---
-date: '2026-04-19T14:54:09.431368'
+date: '2026-04-19T14:54:29.919431'
 draft: false
 tags: []
 title: Powering product discovery in ChatGPT
 ---
 ---
-status: published
+date: '2026-03-31T18:25:36.159109'
+draft: false
+tags: []
+title: Powering product discovery in ChatGPT
 ---
 # Powering product discovery in ChatGPT
 
